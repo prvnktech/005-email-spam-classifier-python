@@ -1,4 +1,4 @@
-# Spam-Classifier-Using-Python
+# Email Spam Classifier Using 3 ML algorithms
 To check if a given email is a spam or not based on the email content
 
 #ML Algorithms used for comparison
